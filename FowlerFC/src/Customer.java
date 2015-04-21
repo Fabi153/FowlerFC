@@ -3,7 +3,7 @@ import java.lang.*;
 import java.util.*;
 // New Comment
 // Fabian hase to pull this
-//No, thanks
+// No, thanks a lot
 class Customer {
     private String name;
     private Vector rentals = new Vector();
