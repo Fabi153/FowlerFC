@@ -1,7 +1,7 @@
 
 import java.lang.*;
 import java.util.*;
-
+// New Comment
 class Customer {
     private String name;
     private Vector rentals = new Vector();
